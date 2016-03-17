@@ -1,0 +1,35 @@
+[Info]
+name 		= "Budokai_Tenkaichi"
+displayname 	= "Budokai Tenkaichi"
+versiondate 	= 
+mugenversion 	= 1.1
+author 		= "Legend Ivanhoe, Tapion,done by osaid"
+
+[Camera]
+startx 		= 0
+starty 		= 0
+boundleft 	= -250
+boundright 	= 210
+boundhigh 	= -170
+boundlow 	= 0
+tension 	= 50
+verticalfollow 	= .3
+floortension 	= 90
+zoomout         = 0.8
+zoomin          = 1
+
+[PlayerInfo]
+p1startx 	= -140
+p1starty 	= 0
+p1facing 	= 1
+p2startx 	= 140
+p2starty 	= 0
+p2facing 	= -1
+p3startx 	= -200
+p3starty 	= 0
+p3facing 	= 1
+p4startx 	= 200
+p4starty 	= 0
+p4facing 	= -1
+leftbound 	= -1000
+rightbound 	= 1000
