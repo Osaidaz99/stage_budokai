@@ -1,0 +1,20 @@
+[Info]
+name 		= "Budokai_Tenkaichi"
+displayname 	= "Budokai Tenkaichi"
+versiondate 	= 
+mugenversion 	= 1.1
+author 		= "Legend Ivanhoe, Tapion,done by osaid"
+
+[Camera]
+startx 		= 0
+starty 		= 0
+boundleft 	= -250
+boundright 	= 210
+boundhigh 	= -170
+boundlow 	= 0
+tension 	= 50
+verticalfollow 	= .3
+floortension 	= 90
+zoomout         = 0.8
+zoomin          = 1
+
